@@ -69,3 +69,8 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "bilibili-hot-search"
+    name: "哔哩哔哩"
+  - id: "ithome"
+    name: "IT之家"
+    
